@@ -1,0 +1,19 @@
+        h1 {
+            font-size: 120px;
+            font-family: arial;
+            color:rgb(3, 195, 209);
+            text-align: center;
+        }
+
+        #p1 {
+            color: navy;
+            font-size: 20px;
+            text-align: center;
+        }
+
+        #p2 {
+            color:aqua;
+            font-size: 20px;
+            text-align: center;
+        }
+
